@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.google.android.things.contrib:driver-button-0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/driver-button-0.5.aar/cc44e0d37a9fcda71a1d61abc5d95c06/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/driver-button-0.5.aar/cc44e0d37a9fcda71a1d61abc5d95c06/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.things.contrib/driver-button/0.5/14998bc0b129ecbd4b582884f40f374866ea6f4b/driver-button-0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
